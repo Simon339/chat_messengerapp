@@ -1,0 +1,5 @@
+go to cloud firestore
+delete backuped up data 
+click start collection
+add new collection 'UserPost'
+delete username in fireAuth
